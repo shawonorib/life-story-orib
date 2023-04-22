@@ -1,5 +1,11 @@
 This is test1 file. 
 Update is file.
 I think I need some more info.
+<<<<<<< HEAD
 Do you have any further more info?
 I love Bangladesh.
+=======
+Do you have any further more info wow?
+>>>>>>> 760db77b369ad3376ceb2f81906e0276888c0433
+
+I love Soudi Arab.
